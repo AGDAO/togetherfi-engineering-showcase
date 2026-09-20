@@ -6,7 +6,7 @@ This timeline summarizes major engineering themes. It intentionally omits commit
 
 - Built the multi-role product foundation for creators, brands, agencies, communities, and administrators
 - Established authentication, profiles, reputation, missions, notifications, and wallet-aware reward experiences
-- Created the shared product structure for CreatorFi, SocialFi, GameFi, LegalFi, and RWAFi
+- Created the product structure for CreatorFi, SocialFi, and GameFi. Earlier LegalFi and RWAFi work was later disabled
 
 ## 2. Arbitrum settlement and rewards
 

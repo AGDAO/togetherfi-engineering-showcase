@@ -28,14 +28,14 @@ The platform combines:
 - **CreatorFi** for briefs, applications, matching, delivery, and creator compensation
 - **SocialFi** for social missions, engagement evidence, status tracking, and reward workflows
 - **GameFi** for community gaming events, raffles, missions, and prize experiences
-- **LegalFi** for document intelligence, clause analysis, risk signals, retrieval, and expert-review escalation
-- **RWAFi** for partner-oriented document, review, and treasury workflows
+- **LegalFi (disabled)** records earlier document-intelligence research. It is not available in the live app
+- **RWAFi (disabled)** records earlier partner-workflow research. It is not available in the live app
 - **Creator Intelligence** across a broad social-data surface, with explainability, confidence, discovery, and anti-abuse signals
 - **AI operations** through more than ten specialized agents and an AI assistant layer
 
 ## Platform scale snapshot
 
-- Five major product sectors: CreatorFi, SocialFi, GameFi, LegalFi, and RWAFi
+- Three active product sectors: CreatorFi, SocialFi, and GameFi. LegalFi and RWAFi are disabled
 - Eleven target creator-data platforms, with seven adapters documented as live in the private platform snapshot
 - Ten-dimension creator intelligence model with private scoring logic
 - More than ten specialized AI agents

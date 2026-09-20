@@ -6,15 +6,19 @@ This is a deliberately high-level view. It shows product boundaries and engineer
 flowchart TB
     U[Creators, Brands, Agencies, Communities] --> P[TogetherFi Product Layer]
 
-    subgraph Products[Product Experiences]
+    subgraph Products[Active Product Experiences]
       C[CreatorFi]
       S[SocialFi]
       G[GameFi]
+    end
+
+    subgraph Disabled[Disabled Product Areas]
       L[LegalFi]
       R[RWAFi]
     end
 
     P --> Products
+    P -. historical work only .-> Disabled
     Products --> I[Creator Intelligence and AI Agents]
     Products --> M[Missions, Reviews, Reputation, and Rewards]
     Products --> T[Optional Market Intelligence and Automation]
@@ -46,13 +50,13 @@ SocialFi connects social participation with missions, evidence, attestations, st
 
 GameFi supports community gaming experiences, mission participation, raffles, event coordination, and prize workflows. Individual winners, payout records, and abuse-prevention controls are not public.
 
-### LegalFi
+### LegalFi (disabled)
 
-LegalFi provides AI-assisted document ingestion, clause and risk analysis, citation support, retrieval from a curated corpus, and escalation when expert review is appropriate. It is decision support, not legal advice.
+LegalFi documents earlier research into AI-assisted document review. It is disabled and is not available in the live app.
 
-### RWAFi
+### RWAFi (disabled)
 
-RWAFi provides partner-oriented intelligence and workflow foundations for document-heavy and treasury-aware use cases. This showcase does not claim regulated custody, tokenization approval, or general production availability.
+RWAFi documents earlier research into partner-oriented workflows. It is disabled and is not available in the live app.
 
 ## Intelligence and AI layer
 

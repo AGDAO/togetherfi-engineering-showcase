@@ -36,4 +36,4 @@ Do not publish suspected vulnerabilities, personal data, wallet information, or 
 
 ## Financial and legal notice
 
-Nothing in this repository is investment, trading, legal, or financial advice. Automated and chain-based systems can fail. Assets can lose value. Network conditions, liquidity, counterparties, software defects, and configuration errors can cause loss. LegalFi outputs require appropriate professional review.
+Nothing in this repository is investment, trading, legal, or financial advice. Automated and chain-based systems can fail. Assets can lose value. Network conditions, liquidity, counterparties, software defects, and configuration errors can cause loss. The disabled LegalFi research was never a substitute for professional legal review.
