@@ -1,6 +1,6 @@
 # TogetherFi Engineering Showcase
 
-**A public engineering record for the TogetherFi platform across Arbitrum and Robinhood Chain.**
+**A public engineering record for TogetherFi across Arbitrum, Stellar, AI, creator intelligence, and Web3 product systems.**
 
 > Documentation only. This repository does not contain the private application, smart contracts, deployable interfaces, database design, trading logic, or operational configuration.
 
@@ -24,7 +24,7 @@ TogetherFi is a multi-product Web3 platform connecting brands, agencies, creator
 The platform combines:
 
 - **Arbitrum settlement and rewards** for campaign funding, mission rewards, attestations, reputation, and revenue accounting
-- **Robinhood Chain product experiences** for creator ecosystems, market intelligence, token discovery, safety screening, and optional trading automation
+- **Stellar-native Soroban contracts** for campaign escrow, contributor pools, and reputation anchoring, validated on testnet
 - **CreatorFi** for briefs, applications, matching, delivery, and creator compensation
 - **SocialFi** for social missions, engagement evidence, status tracking, and reward workflows
 - **GameFi** for community gaming events, raffles, missions, and prize experiences
